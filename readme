@@ -1,0 +1,1 @@
+cat map/medium.txt | ./sudoki-bi
